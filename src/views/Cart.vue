@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    Home
+    購物車
   </div>
 </template>
 
@@ -8,7 +8,7 @@
 export default {
   name: 'Home',
   mounted () {
-    console.log(this.$http.get)
+    // console.log(this.$http.get)
   }
 }
 </script>
